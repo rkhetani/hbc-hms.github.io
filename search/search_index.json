@@ -1,0 +1,114 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Bioinformatics Support for HMS\n\n\nThe \nHarvard Chan Bioinformatics Core\n (HBC) provides bioinformatics support for Harvard Medical School researchers. This has been made possible through funding from the \nHMS Tools and Technology Program\n (TnT).\n\n\nOur Core staff are available to help with the \nmanagement, integration, and contextual analysis of high-throughput biological data\n, focusing on \nnext-generation sequencing support\n. We \nprovide consulting, training, tools, databases and best practices\n, while fostering collaboration and a community of bioinformatic activities. We also build unified infrastructure to support a diverse set of experimental systems and high-throughput biological data.\n\n\nWith the help of this funding, HBC can now \noffer subsidized \nconsults\n to researchers with a primary affiliation in one of the \nBasic and Social Science Departments on the Quad\n. Please \ncontact us\n with any questions and support requests you might have.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/#bioinformatics-support-for-hms", 
+            "text": "The  Harvard Chan Bioinformatics Core  (HBC) provides bioinformatics support for Harvard Medical School researchers. This has been made possible through funding from the  HMS Tools and Technology Program  (TnT).  Our Core staff are available to help with the  management, integration, and contextual analysis of high-throughput biological data , focusing on  next-generation sequencing support . We  provide consulting, training, tools, databases and best practices , while fostering collaboration and a community of bioinformatic activities. We also build unified infrastructure to support a diverse set of experimental systems and high-throughput biological data.  With the help of this funding, HBC can now  offer subsidized  consults  to researchers with a primary affiliation in one of the  Basic and Social Science Departments on the Quad . Please  contact us  with any questions and support requests you might have.", 
+            "title": "Bioinformatics Support for HMS"
+        }, 
+        {
+            "location": "/contact/", 
+            "text": "Contact us!\n\n\nYou can send general enquiries and project requests via \nemail\n. For questions related to training or workshops, please email \nthe training group\n. For administrative requests, please contact \nMegan Scott\n. Billing inquiries and grant-related questions are handled by \nRachel Boschetto\n. Alternatively, just stop by our office!\n\n\nWe are located at the \nHarvard School of Public Health, SPH2, 2nd floor, Rooms 202B and 215, 655 Huntington Ave\n, Boston, MA 02115. Additional maps for the Longwood area, shuttle bus time tables and additional information can be found at the main \nHSPH website\n.", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/contact/#contact-us", 
+            "text": "You can send general enquiries and project requests via  email . For questions related to training or workshops, please email  the training group . For administrative requests, please contact  Megan Scott . Billing inquiries and grant-related questions are handled by  Rachel Boschetto . Alternatively, just stop by our office!  We are located at the  Harvard School of Public Health, SPH2, 2nd floor, Rooms 202B and 215, 655 Huntington Ave , Boston, MA 02115. Additional maps for the Longwood area, shuttle bus time tables and additional information can be found at the main  HSPH website .", 
+            "title": "Contact us!"
+        }, 
+        {
+            "location": "/services/", 
+            "text": "Overview of our services:\n\n\nWhile we can offer support in most areas of computational biology, HBC\u2019s expertise are \nfocused on four key domains:\n\n\n\n\n1. Next generation sequencing analysis:\n\n\nCore analysts have extensive experience in \nmanaging and analyzing sequencing data\n, including whole genome and exome sequencing (quality control, mapping, re-alignment, variant calls, prioritization), RNA-seq (quantification and \nde novo\n transcriptome analysis), genome assembly (reference guided and \nde novo\n) and epigenomics (450K methylation arrays, RRBS, ChIP-seq). We can also provide support in the design and and analysis of your customized NGS experiment. We follow \nbest practices\n and re-use documented public workflows and tools wherever possible, but are happy to adapt existing methods and develop new solutions where required.\n\n\n2. Functional analysis:\n\n\nWe provide a path from genes to function by delivering extensive functional annotation, prioritizing new markers, and developing testable hypotheses for future experiments. We test for functional information using different gene set enrichment approaches (using Gene Ontology, pathway databases, and curated and generic gene sets), provide context by integrating your data with public resources such as \nGEO\n and \nArrayExpress\n, and explore the biological interaction space in co-expression and high-throughput interaction data sets using network analysis techniques.\n\n\n3. Research computing support:\n\n\nOur collaboration with the \nHMS Research Computing\n team means that we can also help with more general problems of computational infrastructure to optimally support your project, including data storage, backup, server setup, and access to \nOrchestra\n, a high performance cluster. Where needed we can also work with you to run large scale analysis on \nAmazon\u2019s AWS\n (Cloud) environment.\n\n\n4. Grant support:\n\n\nWe can \nsupport grant proposals on short notice\n. The Core\u2019s team has extensive experience in providing standard descriptions for data management, user and security handling, quality controls, and data dissemination that fulfill NIH and NSF requirements and simplify the process of finishing your grant or manuscript.", 
+            "title": "Support"
+        }, 
+        {
+            "location": "/services/#overview-of-our-services", 
+            "text": "While we can offer support in most areas of computational biology, HBC\u2019s expertise are  focused on four key domains:", 
+            "title": "Overview of our services:"
+        }, 
+        {
+            "location": "/services/#1-next-generation-sequencing-analysis", 
+            "text": "Core analysts have extensive experience in  managing and analyzing sequencing data , including whole genome and exome sequencing (quality control, mapping, re-alignment, variant calls, prioritization), RNA-seq (quantification and  de novo  transcriptome analysis), genome assembly (reference guided and  de novo ) and epigenomics (450K methylation arrays, RRBS, ChIP-seq). We can also provide support in the design and and analysis of your customized NGS experiment. We follow  best practices  and re-use documented public workflows and tools wherever possible, but are happy to adapt existing methods and develop new solutions where required.", 
+            "title": "1. Next generation sequencing analysis:"
+        }, 
+        {
+            "location": "/services/#2-functional-analysis", 
+            "text": "We provide a path from genes to function by delivering extensive functional annotation, prioritizing new markers, and developing testable hypotheses for future experiments. We test for functional information using different gene set enrichment approaches (using Gene Ontology, pathway databases, and curated and generic gene sets), provide context by integrating your data with public resources such as  GEO  and  ArrayExpress , and explore the biological interaction space in co-expression and high-throughput interaction data sets using network analysis techniques.", 
+            "title": "2. Functional analysis:"
+        }, 
+        {
+            "location": "/services/#3-research-computing-support", 
+            "text": "Our collaboration with the  HMS Research Computing  team means that we can also help with more general problems of computational infrastructure to optimally support your project, including data storage, backup, server setup, and access to  Orchestra , a high performance cluster. Where needed we can also work with you to run large scale analysis on  Amazon\u2019s AWS  (Cloud) environment.", 
+            "title": "3. Research computing support:"
+        }, 
+        {
+            "location": "/services/#4-grant-support", 
+            "text": "We can  support grant proposals on short notice . The Core\u2019s team has extensive experience in providing standard descriptions for data management, user and security handling, quality controls, and data dissemination that fulfill NIH and NSF requirements and simplify the process of finishing your grant or manuscript.", 
+            "title": "4. Grant support:"
+        }, 
+        {
+            "location": "/teaching/", 
+            "text": "Training\n\n\nWe provide bioinformatics training through both \nshorter workshops\n and \nin-depth courses\n.\n\n\n\n\nUpcoming workshops/courses\n\n\nPlease find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out \nthis form\n. \n\n\nHBC's workshops for HMS\n\n\nPre-registration is \nnow closed\n for the next \n12-day\n In-Depth NGS Data Analysis Course to be held in September/October 2018!!\n. \n\n\n\n\nJuly 30th, 31st and August 1st, 2018: \nIntroduction to ChIP-seq using high-performance computing\n. \nRegistration opens on July 9th.\n\n\nAugust 20th - 21st, 2018: \nIntroduction to R\n. \nRegistration opens on August 30th.\n\n\n\n\n\n\nHarvard Catalyst Workshops taught by HBC's training team\n\n\n\n\n\n\n\n\nTopic\n\n\nWorkshop Dates\n\n\nRegistration\n\n\n\n\n\n\n\n\n\n\nIntroduction to RNA-seq using High-Performance Computing\n\n\nOct 31st - Nov 2nd, 2018\n\n\nApplication process will open in early August\n\n\n\n\n\n\nIntroduction to R and Differential Gene Expression (DGE) analysis for RNA-seq\n\n\nNov 14th - 16th, 2018\n\n\nApplication process will open in early August\n\n\n\n\n\n\n\n\nOther training on data skills and bioinformatics at Harvard\n\n\n\n\nMonthly workshops\n on Research Data Management offered by the \nData Management Working Group (DMWG)\n\n\nTraining\n offered by \nHMS-RC\n\n\nTraining\n offered by \nFAS-RC\n\n\nTraining\n offered by \nFAS-Informatics\n\n\n\n\n\n\nTraining program\n\n\nWe provide bioinformatics training through both \nshorter workshops\n and \nin-depth courses\n. [\nClick here\n for a list of upcoming workshops/courses]\n\n\nWorkshops\n\n\nThese workshops vary in duration from half-day to 3 days and are aimed at biologists interested in expanding their knowledge of Next-Generation Sequence (NGS) data analysis, and basic computational skills for working with big or small datasets.\n\n\n\n\n\n\nNext-Generation Sequencing\n\n\nShort workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses using best practices.\n\n\n\n\n\n\nBasic Skills for Data Analysis\n    \n\n\nTopics include R, data visualization using R, Linux shell, High-Performance Computing (HPC), version control, Research Data Management, etc.\n\n\n\n\n\n\n\n\nIn-Depth Next Generation Sequencing Analysis Courses\n\n\nThese intensive courses run for 8-12 days and are aimed at bench biologists interested in learning \nhow to perform independent, best practice NGS-based analyses\n. Topics include:\n\n\n\n\nUnix \n High-Performance Computing (\nO2\n)\n\n\nNGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)\n\n\nStatistical analysis using R\n\n\nFunctional analysis\n\n\n\n\nNo prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.\n\n\n\n\nPast Workshops\n\n\n2018\n\n\n\n\nJune 11th - 13th: \nIntroduction to R and Differential Gene Expression (DGE) analysis for RNA-seq\n\n\nMay 30th \n 31st: \nIntroduction to shell and high-performance computing for RNA-seq\n\n\nApril 30th \n May 1st: \nIntroduction to R\n\n\nMarch 21st - 23rd: \nIntroduction to ChIP-seq using high-performance computing\n\n\nFebruary 26th - 28th: \nIntroduction to R and Differential Gene Expression (DGE) analysis for RNA-seq\n\n\nJanuary 29th - 31st: \nIntroduction to RNA-seq using high-performance computing\n\n\n\n\n2017\n\n\n\n\nDecember 6th \n 7th: \nIntroduction to R\n\n\nNovember 20th \n 21st: \nIntroduction to RNA-seq using high-performance computing\n\n\nOctober 25th \n 26th: \nUsing DESeq2 for Differential Gene Expression\n\n\nSeptember 13th \n 14th: \nIntroduction to R\n\n\nAugust 23rd \n 24th: \nIntroduction to RNA-seq using high-performance computing\n\n\nMay 31st - July 7th: \nIn-depth NGS data analysis course\n\n\nApril 3rd \n 4th: \nIntroduction to R\n\n\nFebruary 15th: \nIntroduction to Differential Gene Expression (DGE) analysis for RNA-Seq\n\n\nFebruary 10th \n 13th: \nIntroduction to R\n\n\n\n\n2016\n\n\n\n\nOctober 31st - December 2nd: \nIn-depth NGS data analysis course (RNA-Seq)\n\n\nOctober 20th: \nIntroduction to Differential Gene Expression (DGE) analysis for RNA-Seq\n\n\nSeptember 29th \n 30th: \nIntroduction to R\n\n\nJune 22nd - August 12th: \nIn-depth NGS data analysis course\n\n\nMay 12th \n 12th: \nIntroduction to UNIX and Orchestra with HMS-RC\n\n\nFebruary 8th - March 8th: \nIn-depth NGS data analysis course\n\n\n\n\n2015\n\n\n\n\nNovember 23rd: \nRNA-Seq with Galaxy\n\n\nOctober 8th \n 9th: \nIntroduction to UNIX and Orchestra with HMS-RC\n\n\nOctober 2nd: \nRNA-Seq with Galaxy\n\n\nSeptember 21st: \nRNA-Seq with Galaxy\n\n\nSeptember 11th: \nChIP-Seq with Galaxy\n\n\nAugust 14th: \nRNA-Seq with Galaxy\n\n\nJuly 22nd: \nA Hands-on Introduction to Python\n (in collaboration with \nIQSS\n)\n\n\nJuly 17th: \nRNA-Seq with Galaxy\n\n\nJune 26th: \nIntroduction to R and R graphics with ggplot2\n (in collaboration with \nIQSS\n)\n\n\n\n\n\n\nFor any training-related questions, please email us at \nhbctraining@hsph.harvard.edu\n.\n\n\nTraining materials can be \naccessed here\n. Please read our \nlicensing information\n prior to reusing or adapting our materials.", 
+            "title": "Teaching"
+        }, 
+        {
+            "location": "/teaching/#training", 
+            "text": "We provide bioinformatics training through both  shorter workshops  and  in-depth courses .", 
+            "title": "Training"
+        }, 
+        {
+            "location": "/teaching/#upcoming-workshopscourses", 
+            "text": "Please find a list of our various offerings below categorized by eligibility. If you would like to receive emails from us about training opportunities, please fill out  this form .", 
+            "title": "Upcoming workshops/courses"
+        }, 
+        {
+            "location": "/teaching/#hbcs-workshops-for-hms", 
+            "text": "Pre-registration is  now closed  for the next  12-day  In-Depth NGS Data Analysis Course to be held in September/October 2018!! .    July 30th, 31st and August 1st, 2018:  Introduction to ChIP-seq using high-performance computing .  Registration opens on July 9th.  August 20th - 21st, 2018:  Introduction to R .  Registration opens on August 30th.", 
+            "title": "HBC's workshops for HMS"
+        }, 
+        {
+            "location": "/teaching/#harvard-catalyst-workshops-taught-by-hbcs-training-team", 
+            "text": "Topic  Workshop Dates  Registration      Introduction to RNA-seq using High-Performance Computing  Oct 31st - Nov 2nd, 2018  Application process will open in early August    Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq  Nov 14th - 16th, 2018  Application process will open in early August", 
+            "title": "Harvard Catalyst Workshops taught by HBC's training team"
+        }, 
+        {
+            "location": "/teaching/#other-training-on-data-skills-and-bioinformatics-at-harvard", 
+            "text": "Monthly workshops  on Research Data Management offered by the  Data Management Working Group (DMWG)  Training  offered by  HMS-RC  Training  offered by  FAS-RC  Training  offered by  FAS-Informatics", 
+            "title": "Other training on data skills and bioinformatics at Harvard"
+        }, 
+        {
+            "location": "/teaching/#training-program", 
+            "text": "We provide bioinformatics training through both  shorter workshops  and  in-depth courses . [ Click here  for a list of upcoming workshops/courses]", 
+            "title": "Training program"
+        }, 
+        {
+            "location": "/teaching/#workshops", 
+            "text": "These workshops vary in duration from half-day to 3 days and are aimed at biologists interested in expanding their knowledge of Next-Generation Sequence (NGS) data analysis, and basic computational skills for working with big or small datasets.    Next-Generation Sequencing  Short workshops on RNA-Seq, ChIP-Seq to introduce basic concepts of Next-Generation Sequencing (NGS) analysis. The goal of these workshops are to enable researchers to design their studies appropriately and perform preliminary data analyses using best practices.    Basic Skills for Data Analysis       Topics include R, data visualization using R, Linux shell, High-Performance Computing (HPC), version control, Research Data Management, etc.", 
+            "title": "Workshops"
+        }, 
+        {
+            "location": "/teaching/#in-depth-next-generation-sequencing-analysis-courses", 
+            "text": "These intensive courses run for 8-12 days and are aimed at bench biologists interested in learning  how to perform independent, best practice NGS-based analyses . Topics include:   Unix   High-Performance Computing ( O2 )  NGS data analysis (RNA-Seq, ChIP-Seq, Variant calling)  Statistical analysis using R  Functional analysis   No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.", 
+            "title": "In-Depth Next Generation Sequencing Analysis Courses"
+        }, 
+        {
+            "location": "/teaching/#past-workshops", 
+            "text": "2018   June 11th - 13th:  Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq  May 30th   31st:  Introduction to shell and high-performance computing for RNA-seq  April 30th   May 1st:  Introduction to R  March 21st - 23rd:  Introduction to ChIP-seq using high-performance computing  February 26th - 28th:  Introduction to R and Differential Gene Expression (DGE) analysis for RNA-seq  January 29th - 31st:  Introduction to RNA-seq using high-performance computing   2017   December 6th   7th:  Introduction to R  November 20th   21st:  Introduction to RNA-seq using high-performance computing  October 25th   26th:  Using DESeq2 for Differential Gene Expression  September 13th   14th:  Introduction to R  August 23rd   24th:  Introduction to RNA-seq using high-performance computing  May 31st - July 7th:  In-depth NGS data analysis course  April 3rd   4th:  Introduction to R  February 15th:  Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq  February 10th   13th:  Introduction to R   2016   October 31st - December 2nd:  In-depth NGS data analysis course (RNA-Seq)  October 20th:  Introduction to Differential Gene Expression (DGE) analysis for RNA-Seq  September 29th   30th:  Introduction to R  June 22nd - August 12th:  In-depth NGS data analysis course  May 12th   12th:  Introduction to UNIX and Orchestra with HMS-RC  February 8th - March 8th:  In-depth NGS data analysis course   2015   November 23rd:  RNA-Seq with Galaxy  October 8th   9th:  Introduction to UNIX and Orchestra with HMS-RC  October 2nd:  RNA-Seq with Galaxy  September 21st:  RNA-Seq with Galaxy  September 11th:  ChIP-Seq with Galaxy  August 14th:  RNA-Seq with Galaxy  July 22nd:  A Hands-on Introduction to Python  (in collaboration with  IQSS )  July 17th:  RNA-Seq with Galaxy  June 26th:  Introduction to R and R graphics with ggplot2  (in collaboration with  IQSS )    For any training-related questions, please email us at  hbctraining@hsph.harvard.edu .  Training materials can be  accessed here . Please read our  licensing information  prior to reusing or adapting our materials.", 
+            "title": "Past Workshops"
+        }, 
+        {
+            "location": "/working-with-us/", 
+            "text": "Working with us\n\n\nConsults are billed at \n$150/hour\n after an initial meeting to discuss your project. This model ensures we can flexibly assign the right combination of expertise to your specific tasks. We will provide you with a estimate of the number of hours required, a quote, and a start date as part of our \nMemorandum of Understanding\n (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via a \nBasecamp\n project page.\n\n\nFees\n for pilot projects, grant-writing related data analysis, and other short term consults \ncan be subsidized\n in many cases through support from the \nHMS Tools and Technology Program\n and funding from the \nHarvard NeuroDiscovery Center\n. If in doubt \nask us for more information\n!", 
+            "title": "Fees"
+        }, 
+        {
+            "location": "/working-with-us/#working-with-us", 
+            "text": "Consults are billed at  $150/hour  after an initial meeting to discuss your project. This model ensures we can flexibly assign the right combination of expertise to your specific tasks. We will provide you with a estimate of the number of hours required, a quote, and a start date as part of our  Memorandum of Understanding  (PDF). During the project you will receive detailed monthly billing updates and ongoing analysis results via a  Basecamp  project page.  Fees  for pilot projects, grant-writing related data analysis, and other short term consults  can be subsidized  in many cases through support from the  HMS Tools and Technology Program  and funding from the  Harvard NeuroDiscovery Center . If in doubt  ask us for more information !", 
+            "title": "Working with us"
+        }
+    ]
+}
