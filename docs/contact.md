@@ -1,10 +1,4 @@
----
-title: Contact
-bg: color3
-color: white 
-fa-icon: envelope-o
-icon: img/contact.png
----
+### Contact us!
 
 You can send general enquiries and project requests via **[email](mailto:bioinformatics@hsph.harvard.edu)**. For questions related to training or workshops, please email **[the training group](mailto:hbctraining@hsph.harvard.edu)**. For administrative requests, please contact [Megan Scott](mailto:mescott@hsph.harvard.edu). Billing inquiries and grant-related questions are handled by [Rachel Boschetto](mailto:rboschet@hsph.harvard.edu). Alternatively, just stop by our office!
 

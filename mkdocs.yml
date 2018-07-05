@@ -1,0 +1,8 @@
+site_name: Bioinformatics Support for HMS
+pages:
+    - About: index.md
+    - Contact: contact.md
+    - Support: services.md
+    - Teaching: teaching.md
+    - Fees: working-with-us.md
+theme: bootstrap
